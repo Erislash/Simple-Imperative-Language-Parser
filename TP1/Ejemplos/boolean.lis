@@ -1,0 +1,6 @@
+x = 2;
+y = 100;
+repeat
+x = x + 1;
+y = y - 5
+until (!(50<2) && true || (1 > 2)) end
